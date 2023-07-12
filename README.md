@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://valentinoarg.github.io/portfolio/](https://valentinoarg.github.io/portfolio/)
 
 - 💬 Ask me about **Html, css, javascript and sql**
-
+- 🌎 I currently live in Mendoza, Argentina.
 - 📫 How to reach me **valentinobarbosa141@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
