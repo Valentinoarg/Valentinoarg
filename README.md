@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentino Barbosa</h1>
 <div align="center">
-<img align="center" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400px">
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 </div>
 <h3 align="center">A passionate frontend developer from Mendoza, Argentina</h3>
 
