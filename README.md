@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A passionate frontend developer from Mendoza, Argentina</h3>
 
-- 🌱 I’m currently learning **Mysql**
+- 🌱 I’m currently learning **Mysql and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://valentinoarg.github.io/portfolio/](https://valentinoarg.github.io/portfolio/)
 
