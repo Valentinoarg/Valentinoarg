@@ -4,20 +4,20 @@
 </div>
 <h3 align="center">A passionate frontend developer from Mendoza, Argentina</h3>
 
-- 🌱 I’m currently learning **Mysql and Javascript**
+# 💫 About Me:
+🌱 I’m currently learning Mysql and Javascript<br><br>👨‍💻 All of my projects are available at https://valentinoarg.github.io/portfolio/<br><br>💬 Ask me about Html, css, javascript and sql<br><br>🌎 I currently live in Mendoza, Argentina.<br><br>📫 How to reach me valentinobarbosa141@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://valentinoarg.github.io/portfolio/](https://valentinoarg.github.io/portfolio/)
-
-- 💬 Ask me about **Html, css, javascript and sql**
-- 🌎 I currently live in Mendoza, Argentina.
-- 📫 How to reach me **valentinobarbosa141@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+I'm+Valentino+Barbosa;welcome+to+my+site+%E2%98%95;i+am+a+junior+programmer+%F0%9F%96%A5%EF%B8%8F;nice+to+meet+you+%F0%9F%99%83)](https://git.io/typing-svg)
 
-  [![valentinoarg GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinoarg)](https://github.com/anuraghazra/github-readme-stats)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Valentinoarg&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Valentinoarg&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinoarg&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Valentinoarg&icon=2&color=0)](https://visitcount.itsvg.in)
+
